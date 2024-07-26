@@ -1,5 +1,5 @@
 {
-  "name": "apitemplate",
+  "name": "@_depth_/apitemplate",
   "version": "1.0.0",
   "description": "Template de um setup basico para criacao de uma API usando express e mongoose",
   "main": "index.js",
